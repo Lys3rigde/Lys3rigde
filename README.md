@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Lys3rigde/Lys3rigde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  👋 Hi, my name is **Egor Matveev**!
+## I'm a beginner *Front-End developer* from Moscow.
+### Languages and Tachologies
+![Javascript](https://img.shields.io/badge/-JavaScript-%23090909?style=for-the-badge&logo=Javascript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-%23090909?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-%23090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-%23090909?style=for-the-badge&logo=css3)
+![API](https://img.shields.io/badge/-REST&#032;API-%23090909?style=for-the-badge)
+### ✉️  Mail me: egormsm@gmail.com
+### 🌌  Telegram: @n_o_va1
+#
+>Succeeds everywhere whoever does not hurry anywhere <br/>
+> *** Mikhail Bulgakov
