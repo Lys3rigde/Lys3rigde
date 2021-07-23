@@ -1,6 +1,6 @@
 #  👋 Hi, my name is **Egor Matveev**!
 ## I'm a beginner *Front-End developer* from Moscow.
-### Languages and Tachologies
+### Languages and Technologies
 ![Javascript](https://img.shields.io/badge/-JavaScript-%23090909?style=for-the-badge&logo=Javascript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-%23090909?style=for-the-badge&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-%23090909?style=for-the-badge&logo=html5)
