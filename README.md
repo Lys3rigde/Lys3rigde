@@ -10,4 +10,4 @@
 ### 🌌  Telegram: @n_o_va1
 #
 >Succeeds everywhere whoever does not hurry anywhere <br/>
-> ***Mikhail Bulgakov
+> ***Mikhail Bulgakov***
